@@ -67,7 +67,7 @@ public class TextBox_CheckForChangeBehavior
 ### Result
 
 #### Before Text Change
-![Alt text](image-2.png)
+![Before](https://github.com/donpp237/BehaviorHelper/assets/137162873/98dd5425-ca9d-4a79-a0cb-1bf1b8741caa)
 
 #### After Text Change
-![Alt text](image-3.png)
+![After](https://github.com/donpp237/BehaviorHelper/assets/137162873/69aa0cb6-4ee1-4381-b815-a716702f68f4)
