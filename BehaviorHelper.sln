@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorHelper", "BehaviorHelper\BehaviorHelper.csproj", "{5440F3B7-EF18-448E-8456-ABC22DAF30B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5440F3B7-EF18-448E-8456-ABC22DAF30B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5440F3B7-EF18-448E-8456-ABC22DAF30B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5440F3B7-EF18-448E-8456-ABC22DAF30B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5440F3B7-EF18-448E-8456-ABC22DAF30B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647A1CDF-5EF4-430E-9574-FE5F9FB55FA3}
+	EndGlobalSection
+EndGlobal
